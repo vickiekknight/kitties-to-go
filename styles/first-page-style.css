@@ -59,3 +59,11 @@ h2 {
   margin-top: 5rem;
   text-align: center;
 }
+
+.sr-only {
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  overflow: hidden;
+}
